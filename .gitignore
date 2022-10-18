@@ -1,0 +1,4 @@
+ENV
+**/*.pyc
+node_modules/
+build
